@@ -1,1 +1,18 @@
 pip install pillow
+socket → comunicación cliente-servidor.
+
+threading → manejo de hilos (concurrencia).
+
+os → operaciones con archivos y directorios.
+
+queue → colas seguras para pasar datos entre hilos.
+
+time → control de tiempos y timestamps.
+
+io → manejo de flujos de bytes (para imágenes).
+
+mimetypes → detección del tipo MIME de archivos.
+
+shutil → copia y manejo avanzado de archivos.
+
+tkinter, tkinter.scrolledtext, tkinter.filedialog, tkinter.messagebox → interfaz gráfica
